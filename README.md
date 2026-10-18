@@ -1,5 +1,3 @@
-# organizador_declara-o_ir
-
 # 📊 Agregador de Dados para Declaração de Imposto de Renda no Excel
 
 Este repositório contém o projeto prático desenvolvido para o desafio da **DIO (Digital Innovation One)**. O objetivo principal foi criar uma ferramenta robusta e intuitiva no Excel para organizar, reunir e validar todas as informações essenciais necessárias para a declaração de imposto de renda de forma eficiente.
@@ -31,3 +29,10 @@ Este desafio permitiu consolidar e aplicar os seguintes conhecimentos abordados 
 * Técnicas de usabilidade (User Experience) aplicadas a planilhas de controle financeiro.
 
 ---
+
+## Demonstração
+
+<img width="919" height="446" alt="image" src="https://github.com/user-attachments/assets/798a5aca-a171-4f0a-81b1-674ed1d73e4f" />
+<img width="928" height="504" alt="image" src="https://github.com/user-attachments/assets/ff209f4d-2770-424b-ad3e-bd511384d450" />
+<img width="845" height="519" alt="image" src="https://github.com/user-attachments/assets/5403f3a1-af85-4722-ade2-6c83e63a4415" />
+
